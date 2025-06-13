@@ -1,6 +1,4 @@
-provider "aws" {
-  region = "ca-central-1"
-}
+
 
 # -------------------------------
 # VPC and Networking Components
